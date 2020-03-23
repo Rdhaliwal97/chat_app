@@ -1,0 +1,25 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhaliwal97/chat_app.git"
+  },
+  "keywords": [],
+  "author": "ਮਨਪ੍ਰੀਤ ਸਿੰਘ || Manpreet Singh <rdhaliwal97@outlook.com> (https://github.com/rdhaliwal97)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdhaliwal97/chat_app/issues"
+  },
+  "homepage": "https://github.com/rdhaliwal97/chat_app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
